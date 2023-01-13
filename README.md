@@ -9,3 +9,11 @@
 
 * Given features are combiningly/relatively give us better result for the disease. So we will apply ensemble techniques.
 
+
+
+# Objective
+* The main objective is to develop a system which can predict the type of thyroid disease that patient is affected from. 
+
+* To predict thyroid disease with usage of minimumnumber of parameters.
+
+* To predict all possible types of Thyroid diseases.
