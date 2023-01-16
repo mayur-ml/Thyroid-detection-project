@@ -11,7 +11,7 @@
 
 
 
-# Objective
+### Objective
 * The main objective is to develop a system which can predict the type of thyroid disease that patient is affected from. 
 
 * To predict thyroid disease with usage of minimumnumber of parameters.
