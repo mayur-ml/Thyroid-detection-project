@@ -41,7 +41,19 @@
 
 * __Requirements:__  `!pip install pandas`
 `!pip install numpy` `!pip install matplotlib` `!pip install seaborn` `!pip install scikit-learn`
+##### Article 
 
+See the following for a discussion of relevant experiments and related work:
+
+   Quinlan,J.R., Compton,P.J., Horn,K.A., & Lazurus,L. (1986).
+   
+   Inductive knowledge acquisition: A case study.
+   
+   In Proceedings of the Second Australian Conference on Applications of Expert Systems.  Sydney, Australia.
+
+   Quinlan,J.R. (1986). Induction of decision trees. Machine Learning, 1, 81--106. 
+   
+   
 <p/>
 
 ### Exploratory Data Analysis :
