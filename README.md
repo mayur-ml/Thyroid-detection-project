@@ -22,7 +22,13 @@
 
 * To predict all possible types of Thyroid diseases.
 
-### Dataset : https://archive.ics.uci.edu/ml/datasets/thyroid+disease
+### Dataset :
+#### Data Set Information: https://archive.ics.uci.edu/ml/datasets/thyroid+disease
+
+* From Garavan Institute
+* Documentation: as given by Ross Quinlan
+* 6 databases from the Garavan Institute in Sydney, Australia
+
 ![image](https://user-images.githubusercontent.com/108168115/213940976-45c6257e-5750-45b0-876f-05ac17d891a2.png)
 
 <p/>    
@@ -40,27 +46,7 @@
 
 ### Exploratory Data Analysis :
 
-#### Data Set Information:
 
-* From Garavan Institute
-* Documentation: as given by Ross Quinlan
-* 6 databases from the Garavan Institute in Sydney, Australia
-* Approximately the following for each database:
 
-* 2800 training (data) instances and 972 test instances
-* Plenty of missing data
-* 29 or so attributes, either Boolean or continuously-valued
-
-* 2 additional databases, also from Ross Quinlan, are also here
-
-* Hypothyroid.data and sick-euthyroid.data
-* Quinlan believes that these databases have been corrupted
-* Their format is highly similar to the other databases
-
-* 1 more database of 9172 instances that cover 20 classes, and a related domain theory
-* Another thyroid database from Stefan Aeberhard
-
-* 3 classes, 215 instances, 5 attributes
-* No missing values
 
 
