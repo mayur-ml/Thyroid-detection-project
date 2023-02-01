@@ -39,8 +39,17 @@
 
 * __Packages:__ pandas, numpy, matplotlib, seaborn, sklearn.
 
-* __Requirements:__  `!pip install pandas`
-`!pip install numpy` `!pip install matplotlib` `!pip install seaborn` `!pip install scikit-learn`
+* __Requirements:__  
+  
+  * `!pip install pandas`
+  
+  * `!pip install numpy`
+
+  * `!pip install matplotlib` 
+
+  * `!pip install seaborn`
+
+  * `!pip install scikit-learn`
 ##### Article 
 
 See the following for a discussion of relevant experiments and related work:
